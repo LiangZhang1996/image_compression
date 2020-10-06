@@ -1,0 +1,2 @@
+- `mymodel.py` contains the auto-encoder-decoder model for image compression at different ratio
+- `main.ipynb` demonstrate the progrss of code running
